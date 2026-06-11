@@ -1,4 +1,4 @@
-# Primeira-aula-sobre-JAVA
+# Variaveis
 Tipos que utilizei:
 
 String (Texto): Para nomes, mensagens e CEPs. É tudo que vai entre "aspas".
